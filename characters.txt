@@ -1,0 +1,81 @@
+celebrity
+bee keeper
+engineer
+mechanic
+farmer
+soldier
+pilot
+captain
+doctor
+nurse
+teacher
+artist
+journalist
+astronaut
+space engineer
+biologist
+geologist
+ecologist
+zoologist
+marine biologist
+conservation scientist
+botanist
+entomologist
+ornithologist
+malacologyst
+myrmecologist
+archeologist
+anthropologist
+ethnographer
+linguist
+translator
+interpreter
+communications specialist
+computer programmer
+programmer
+web developer
+game designer
+graphic artist
+illustrator
+writer
+novelist
+screen writer
+playwright
+director
+producer
+cinematographer
+editor
+critic
+historian
+philosopher
+psychiatrist
+faro
+gambler
+magician
+actor
+musician
+painter
+scientific illustrator
+art director
+costume designer
+makeup artist
+sound engineer
+stunt performer
+talk show host
+television presenter
+weather forecaster
+zookeeper
+veterinarian
+vet
+vegetarian
+vegan
+animal lover
+diabetic
+student
+retired person
+general
+tutor
+gardener
+chef
+mathematition
+physicist

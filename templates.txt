@@ -1,0 +1,3 @@
+[genre] : Help a/an [character] to [goal] in/at [setting]
+[genre] : A [character] and a [character] has to [goal] in/at [setting]
+[genre] : [character] has to help a [character] to [goal] in/at [setting]

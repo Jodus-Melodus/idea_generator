@@ -1,0 +1,68 @@
+church
+shopping mall
+dark forest
+forest
+jungle
+mountain range
+desert
+tundra
+arctic tundra
+alpine meadow
+snowfield
+ice cave
+cave
+underwater
+dungeon
+maze
+labyrinth
+crypt
+prison cell
+cell block
+gallery
+museum
+alley
+island
+beach
+lighthouse
+observatory
+castle
+fortress
+ruins
+abandoned building
+skyscraper
+hotel
+apartment building
+hospital
+bank
+post office
+government building
+university
+school
+swamp
+marsh
+wetlands
+rainforest
+savana
+grassland
+mall
+plaza
+city hall
+town hall
+stadium
+airport
+bus station
+train station
+station
+parking lot
+garage
+warehouse
+factory
+office building
+barracks
+abandoned factory
+ship
+submarine
+plane
+helicopter
+military base
+minefield

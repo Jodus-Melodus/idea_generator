@@ -1,0 +1,23 @@
+thriller
+drama
+horror
+action
+adventure
+romance
+mystery
+sci-fi
+fiction
+narrative
+fantasy
+magical
+satire
+western
+crime
+historcal
+legend
+mythology
+tall tale
+short story
+anthology
+graphic novel
+humorous
